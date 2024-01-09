@@ -23,9 +23,16 @@ The app is built using the following technologies:
 - **Backend:** PHP.
 
 ## Screenshots
+![Screenshot_1684944205](https://github.com/Med020/App-Ferri/assets/125467087/a81fe42c-43a5-4982-8fc8-7eb236e1a923)
+
+![Screenshot_1684945530](https://github.com/Med020/App-Ferri/assets/125467087/94cd14c7-bd7f-45fa-923c-6ab9604ac16c)
+
 ![Screenshot_1684961629](https://github.com/Med020/App-Ferri/assets/125467087/f747fa65-6ecf-4e4e-9c21-7c2adfe09670)
+
 ![Screenshot_1685730663](https://github.com/Med020/App-Ferri/assets/125467087/1a58d12f-134c-4b10-b992-5e03bef728b4)
-![Screenshot_1685730663](https://github.com/Med020/App-Ferri/assets/125467087/05edd0c2-4ea3-4419-8bdf-5a458a61b047)
+
+![Screenshot_1686164466](https://github.com/Med020/App-Ferri/assets/125467087/b1b233eb-2261-4649-a03e-e40938053c19)
+
 
 
 
