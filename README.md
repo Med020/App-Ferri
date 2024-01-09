@@ -24,5 +24,8 @@ The app is built using the following technologies:
 
 ## Screenshots
 ![Screenshot_1684961629](https://github.com/Med020/App-Ferri/assets/125467087/f747fa65-6ecf-4e4e-9c21-7c2adfe09670)
+![Screenshot_1685730663](https://github.com/Med020/App-Ferri/assets/125467087/1a58d12f-134c-4b10-b992-5e03bef728b4)
+![Screenshot_1685730663](https://github.com/Med020/App-Ferri/assets/125467087/05edd0c2-4ea3-4419-8bdf-5a458a61b047)
+
 
 
