@@ -4,7 +4,7 @@ Welcome to the Product Showcase App repository! This mobile application was deve
 
 ## Overview
 
-The Product Showcase App is designed to provide a user-friendly interface for customers to explore and learn more about the range of products manufactured by [Company Name]. With this app, users can:
+The Product Showcase App is designed to provide a user-friendly interface for customers to explore and learn more about the range of products manufactured by SAPILOG. With this app, users can:
 
 - **Browse Products:** View a comprehensive list of products, each accompanied by detailed information.
   
